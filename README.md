@@ -1,0 +1,2 @@
+# HastaneRandevuSistemii
+Nesne Yönelimli Proğlamlama
